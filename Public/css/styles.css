@@ -1,0 +1,19 @@
+input{
+  text-align: center;
+}
+img{
+  height: 10rem;
+  text-align: center;
+  margin-left: 33%;
+}
+form{
+  position: absolute;
+  left: 35%;
+  width: 28%;
+  bottom: 30%;
+}
+
+button{
+  margin-top: 3%;
+  width: 100%;
+}
